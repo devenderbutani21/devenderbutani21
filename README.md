@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about Deep Learning.
 - 👯 I’m looking to collaborate on projects related to flutter and python.
 - 💬 Ask me about flutter and python.
--
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favourite anime are Naruto and Dragon Ball Z.
 
