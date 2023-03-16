@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Deep Learning.
 - 👯 I’m looking to collaborate on projects related to flutter and python.
 - 💬 Ask me about flutter and python.
-- 📫 How to reach me: [Twitter- @ButaniDevender](https://twitter.com/ButaniDevender), [Facebook - @DButani1](https://www.facebook.com/Dbutani1/) , [Instagram - @itsmedevenderbutani](https://www.instagram.com/itsmedevenderbutani/), [Behance - @devenderbutani21](https://www.behance.net/devenderbutani21)
+-
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favourite anime are Naruto and Dragon Ball Z.
 
