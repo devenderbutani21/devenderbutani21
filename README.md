@@ -1,8 +1,8 @@
 ### Hi, I am Devender Butani 👋
 
 - 🌱 I’m currently learning about Java and Spring.
-- 👯 I’m looking to collaborate on projects related to flutter, java and python.
-- 💬 Ask me about java, flutter and python.
+- 👯 I’m looking to collaborate on projects related to Flutter, Java and Python.
+- 💬 Ask me about Java, Flutter and Python.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favourite anime are Naruto and Dragon Ball Z.
 
